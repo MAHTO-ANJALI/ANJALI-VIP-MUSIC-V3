@@ -59,7 +59,7 @@
       },
         "OWNER_USERNAME": {
         "description": "Bot Owner Username without @",
-        "value": "Sanam_King",
+        "value": "AnjaliOwnerBot",
         "required": false
       },
         "HEROKU_API_KEY": {
