@@ -40,7 +40,7 @@ async def init():
     await userbot.start()
     await Anony.start()
     try:
-        await Anony.stream_call("https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4")
+        await Anony.stream_call("https://te.legra.ph/file/774624c731c7b51b09a6b.mp4")
     except NoActiveGroupCall:
         LOGGER("AMBOT").error(
             "Please turn on the videochat of your log group\channel.\n\nStopping Bot..."
@@ -50,7 +50,7 @@ async def init():
         pass
     await Anony.decorators()
     LOGGER("AMBOT").info(
-        "Don't forget to visit @AMBOTYT"
+        "Don't forget to visit @AnjalixSupportxGroup"
     )
     await idle()
     await app.stop()
