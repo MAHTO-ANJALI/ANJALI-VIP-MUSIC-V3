@@ -24,9 +24,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MAHTO-ANJALI&repo=AnjaliMusicOne&theme=flag-india)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MAHTO-ANJALI&repo=AnjaliMusiThree&theme=flag-india)
 
-[![GIF](https://github.com/MAHTO-ANJALI/AnjaliMusicOne/blob/main/MAHTO-ANJALI.gif)](https://github.com/MAHTO-ANJALI)
+[![GIF](https://github.com/MAHTO-ANJALI/AnjaliMusiThree/blob/main/MAHTO-ANJALI.gif)](https://github.com/MAHTO-ANJALI)
    [![MAHTO-ANJALI](https://github-stats-alpha.vercel.app/api?username=MAHTO-ANJALI "MAHTO_ANJALI")](https://github-stats-alpha.vercel.app/api?username=MAHTO-ANJALI "MAHTO_ANJALI")
 
 
@@ -47,8 +47,8 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MAHTO-ANJALI/AnjaliMusicOne"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-MUSIC"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MAHTO-ANJALI/AnjaliMusiThree"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MAHTO-ANJALI/AnjaliMusiThree"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
 ## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/U8T5W3J1FNo?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/U8T5W3J1FNo)
@@ -61,7 +61,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/MAHTO-ANJALI/AnjaliMusicOne/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/MAHTO-ANJALI/AnjaliMusiThree/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -73,7 +73,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/MAHTO-ANJALI/AnjaliMusicOne && cd AnjaliMusicOne`
+`git clone https://github.com/MAHTO-ANJALI/AnjaliMusiThree && cd AnjaliMusiThree`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
