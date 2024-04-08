@@ -7,8 +7,8 @@ from config import LOGGER_ID as LOG_GROUP_ID
 from AMBOT import app  
 
 photo = [
-    "https://graph.org/file/581b45c9ca4ca334bc665.jpg",
-    "https://graph.org/file/581b45c9ca4ca334bc665.jpg",
+    "https://te.legra.ph/file/6d39e6c9824d038611f7c.jpg",
+    "https://te.legra.ph/file/3b8324ac3130f93fc828a.jpg",
 ]
 
 
