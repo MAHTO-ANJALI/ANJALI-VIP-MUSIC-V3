@@ -1,7 +1,7 @@
 {
-    "name": "Am ᴍᴜsɪᴄ",
+    "name": "˹𝐀ɴᴊᴀʟɪ ꭙ 𝐌ᴜsɪᴄ˼ ♪³",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/7f0ae0092dbcf215b971b.jpg",
+    "logo": "https://te.legra.ph/file/1dec4ee0d68c8198ffe2d.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -54,7 +54,7 @@
       },
         "THUMNAME": {
         "description": "thumbnail Name",
-        "value": "SophiaMusic",
+        "value": "AnjaliMusic",
         "required": false
       },
         "OWNER_USERNAME": {
